@@ -77,7 +77,7 @@ Build 2.6.0 - Jan 23, 2014 - [Release notes](release-notes.html#Release_Notes_2_
     </tr>
     <tr>
       <td>Windows, Mac OS X, and Linux</td>
-      <td>[gwt-2.6.0.zip](http://google-web-toolkit.googlecode.com/files/gwt-2.6.0.zip)</td>
+      <td>[gwt-2.6.0.zip](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/google-web-toolkit/gwt-2.6.0.zip)</td>
       <td>103 MB</td>
       <td>36d45c9dffbe59d15c6f6d04657438dc78e343c1</td>
     </tr>
@@ -96,7 +96,7 @@ Build 2.5.1 - Mar 11, 2013 - [Release notes](release-notes.html#Release_Notes_2_
     </tr>
     <tr>
       <td>Windows, Mac OS X, and Linux</td>
-      <td>[gwt-2.5.1.zip](http://google-web-toolkit.googlecode.com/files/gwt-2.5.1.zip)</td>
+      <td>[gwt-2.5.1.zip](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/google-web-toolkit/gwt-2.5.1.zip)</td>
       <td>105 MB</td>
       <td>d5f755b0a45fab577328a5ef6b96aa39b64cdb65</td>
     </tr>
@@ -115,7 +115,7 @@ Build 2.5.0 - Oct 24, 2012 - [Release notes](/release-notes.html#Release_Notes_2
     </tr>
     <tr>
       <td>Windows, Mac OS X, and Linux</td>
-      <td>[gwt-2.5.0.zip](http://google-web-toolkit.googlecode.com/files/gwt-2.5.0.zip)</td>
+      <td>[gwt-2.5.0.zip](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/google-web-toolkit/gwt-2.5.0.zip)</td>
       <td>104 MB</td>
       <td>59f04f2002a26451d83f8c82044c14d076059ee3</td>
     </tr>
